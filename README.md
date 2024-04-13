@@ -37,17 +37,7 @@ Debian / Ubuntu
 sudo apt-get install python3-pygame
 ```
 
-Arch
 
-```sh
-sudo pacman -S python-pygame
-```
-
-Fedora
-
-```sh
-sudo dnf install python3-pygame
-```
 
 ## Help development
 
