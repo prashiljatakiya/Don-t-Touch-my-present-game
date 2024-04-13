@@ -1,7 +1,6 @@
 # Don't Touch My Presents
 
-Big problem! The holidays are almost here but people keep trying to steal your presents. It's up to you to see how long
-you can defend your precious gift.
+
 
 This game was made in 3 days with Python and Pygame.
 
